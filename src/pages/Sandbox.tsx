@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Send, Map as MapIcon, Users, History, Settings, Globe, Shield, Building2, Anchor, Swords, Scroll, Crown } from 'lucide-react';
+import { Send, Map as MapIcon, Users, History, Settings, Globe, Swords, Scroll, Crown, Shield, Building2, Anchor } from 'lucide-react';
 import FantasyMap from '../components/FantasyMap';
 import type { Territory } from '../data/mapData';
 

@@ -1,0 +1,5 @@
+{
+  "name": "fantasy-historia",
+  "build": "bun run build",
+  "output": "dist"
+}
